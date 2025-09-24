@@ -1,6 +1,6 @@
 {
-  "commit": "7f5540f949b37c8c481853679b133844ca418e08",
-  "generated": "2025-09-24T11:46:39.679Z",
+  "commit": "7b86307f819a88a4de3c265425e88a6167461bbc",
+  "generated": "2025-09-24T12:10:36.017Z",
   "metadata": [
     {
       "__outstatic": {
@@ -180,24 +180,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f5f8563614fc1d52f21657e41992aee215cd32d0",
-        "hash": "1255245285",
-        "path": "/outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "tester her",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "463b9d5e4fa2711661354e68515546c75c206289",
         "hash": "4128536308",
         "path": "/outstatic/content/pages/about.md"
@@ -229,6 +211,24 @@
       "slug": "demo",
       "status": "published",
       "title": "Demo"
+    },
+    {
+      "__outstatic": {
+        "commit": "7b86307f819a88a4de3c265425e88a6167461bbc",
+        "hash": "973645012",
+        "path": "/outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Richard",
+        "picture": "https://avatars.githubusercontent.com/u/140500000?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "tester her",
+      "description": "This is my blog.",
+      "publishedAt": "2024-09-23T22:00:00.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
