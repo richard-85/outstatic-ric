@@ -1,5 +1,12 @@
 {
   "title": "pages",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "coverImage": {
+      "description": "Building1",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Cover Image"
+    }
+  }
 }
