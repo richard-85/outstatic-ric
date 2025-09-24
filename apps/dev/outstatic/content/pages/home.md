@@ -18,4 +18,4 @@ I'm a lead design engineer from Brazil 🇧🇷 with a focus on SaaS & Media bus
 
 ![hei på deg](/images/brodrene_dahl_hovedlogo_sentrert_bdh_03666_foto_linda_berntsen--1--A4Mz.png)
 
-# tester her
+# 
