@@ -23,7 +23,7 @@ const Header = async () => {
           href="/"
           className="hover:text-slate-900 dark:hover:text-blue-200 px-5 underline-offset-2 font-semibold transition-all hover:scale-105"
         >
-          Andre Vitorio
+          Richard Hallerud
         </Link>
         <ul className="hidden md:flex items-center justify-between space-x-3 text-xs md:space-x-4 md:text-base">
           {pages.map(({ title, slug }) => (
