@@ -1,25 +1,7 @@
 {
-  "commit": "f5f8563614fc1d52f21657e41992aee215cd32d0",
-  "generated": "2025-09-24T11:33:50.493Z",
+  "commit": "16437f11f067239a57f8453ae9ba93c60a46a4cc",
+  "generated": "2025-09-24T11:44:49.953Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "9637bcf0d7aa912e22e9e0031dd679244f9c9527",
-        "hash": "2309931423",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "I'm Andre, a product developer and designer from Maceió, Brazil",
-      "publishedAt": "2023-12-28T18:49:02.348Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About Me"
-    },
     {
       "__outstatic": {
         "commit": "056337c6ec4b1a28f693f8068e1a116eaef5f7e7",
@@ -213,6 +195,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "16437f11f067239a57f8453ae9ba93c60a46a4cc",
+        "hash": "3090964639",
+        "path": "/outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "I'm Andre, a product developer and designer from Maceió, Brazil",
+      "publishedAt": "2023-12-28T18:49:02.348Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About Me"
     }
   ]
 }
