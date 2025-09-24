@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Wed, 24 Sep 2025 09:59:13 GMT",
+  "commit": "c8e664aa57bb3abadc9796463505b6a7c7cdec45",
+  "generated": "2025-09-24T09:59:15.061Z",
   "media": [
     {
       "__outstatic": {
@@ -11,6 +11,17 @@
       "alt": "",
       "filename": "1500x500-Q3ND.webp",
       "publishedAt": "2025-09-24T09:59:13.413Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "c8e664aa57bb3abadc9796463505b6a7c7cdec45",
+        "hash": "2452097040",
+        "path": "apps/dev/public/images/brodrene_dahl_hovedlogo_sentrert_bdh_03666_foto_linda_berntsen--1--kxND.png"
+      },
+      "alt": "",
+      "filename": "brodrene_dahl_hovedlogo_sentrert_bdh_03666_foto_linda_berntsen--1--kxND.png",
+      "publishedAt": "2025-09-24T09:59:15.059Z",
       "type": "image"
     },
     {
