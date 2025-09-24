@@ -1,6 +1,6 @@
 {
-  "commit": "21fd605d2485760b7ebabcb7185fe95c9c6ae6cc",
-  "generated": "2025-09-24T11:46:12.323Z",
+  "commit": "7f5540f949b37c8c481853679b133844ca418e08",
+  "generated": "2025-09-24T11:46:39.679Z",
   "metadata": [
     {
       "__outstatic": {
@@ -216,12 +216,12 @@
     },
     {
       "__outstatic": {
-        "commit": "21fd605d2485760b7ebabcb7185fe95c9c6ae6cc",
-        "hash": "3267946211",
+        "commit": "7f5540f949b37c8c481853679b133844ca418e08",
+        "hash": "541906643",
         "path": "/outstatic/content/demo/demo.mdx"
       },
       "author": {
-        "name": "",
+        "name": "richard",
         "picture": "https://avatars.githubusercontent.com/u/140500000?v=4"
       },
       "collection": "demo",
