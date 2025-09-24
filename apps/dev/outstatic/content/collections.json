@@ -16,5 +16,11 @@
     "slug": "projects",
     "path": "apps/dev/outstatic/content/projects",
     "children": []
+  },
+  {
+    "title": "demo",
+    "slug": "demo",
+    "path": "apps/dev/outstatic/content/demo",
+    "children": []
   }
 ]
