@@ -1,6 +1,6 @@
 {
-  "commit": "17877a041c819fe1fd6a61757ab8012543249ffc",
-  "generated": "2025-09-24T10:01:17.770Z",
+  "commit": "b951e70d8d6c02fc4eae420c26553436dc8951d4",
+  "generated": "2025-09-24T10:02:23.868Z",
   "metadata": [
     {
       "__outstatic": {
@@ -197,6 +197,22 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "b951e70d8d6c02fc4eae420c26553436dc8951d4",
+        "hash": "950349180",
+        "path": "/outstatic/content/pages/demo.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/140500000?v=4"
+      },
+      "collection": "pages",
+      "publishedAt": "2025-09-24T10:14:00.237Z",
+      "slug": "demo",
+      "status": "published",
+      "title": "Demo"
     }
   ]
 }
