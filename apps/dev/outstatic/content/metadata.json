@@ -1,6 +1,6 @@
 {
-  "commit": "463b9d5e4fa2711661354e68515546c75c206289",
-  "generated": "2025-09-24T11:45:15.306Z",
+  "commit": "21fd605d2485760b7ebabcb7185fe95c9c6ae6cc",
+  "generated": "2025-09-24T11:46:12.323Z",
   "metadata": [
     {
       "__outstatic": {
@@ -213,6 +213,22 @@
       "slug": "about",
       "status": "published",
       "title": "About Me"
+    },
+    {
+      "__outstatic": {
+        "commit": "21fd605d2485760b7ebabcb7185fe95c9c6ae6cc",
+        "hash": "3267946211",
+        "path": "/outstatic/content/demo/demo.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/140500000?v=4"
+      },
+      "collection": "demo",
+      "publishedAt": "2025-09-24T11:58:03.906Z",
+      "slug": "demo",
+      "status": "published",
+      "title": "Demo"
     }
   ]
 }
