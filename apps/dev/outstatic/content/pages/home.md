@@ -16,4 +16,4 @@ publishedAt: "2022-03-17T05:35:07.322Z"
 
 I'm a lead design engineer from Brazil 🇧🇷 with a focus on SaaS & Media businesses. Learn more [about me](/about), my [projects](/projects) or follow me on [𝕏](https://twitter.com/AndreVitorio).
 
-![hei på deg](/images/brodrene_dahl_hovedlogo_sentrert_bdh_03666_foto_linda_berntsen--1--kxND.png)
+![hei på deg](/images/brodrene_dahl_hovedlogo_sentrert_bdh_03666_foto_linda_berntsen--1--A4Mz.png)
