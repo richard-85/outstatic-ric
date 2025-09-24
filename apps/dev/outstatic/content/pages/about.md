@@ -32,4 +32,4 @@ React, Next.js, TailwindCSS, WebGL, ThreeJS, PHP, MySQL, WordPress, OpenAI APIs,
 ### How to reach me 📫
 
 🐧 [X](https://twitter.com/andrevitorio)\
-💼 [LinkedIn tesert](https://www.linkedin.com/in/andrevitorio)
+💼 [Link](https://www.linkedin.com/in/andrevitorio)
