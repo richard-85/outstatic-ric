@@ -1,6 +1,6 @@
 {
-  "commit": "10b083b868f5f525804420f3155e94760aeed8a9",
-  "generated": "2025-09-26T10:36:17.670Z",
+  "commit": "6f81fb093bdd10c7da0408475e6dbcedca5cc739",
+  "generated": "2025-09-26T10:47:46.284Z",
   "metadata": [
     {
       "__outstatic": {
@@ -237,6 +237,28 @@
       "tags": [
       ],
       "title": "Tester"
+    },
+    {
+      "__outstatic": {
+        "commit": "6f81fb093bdd10c7da0408475e6dbcedca5cc739",
+        "hash": "2351984489",
+        "path": "/outstatic/content/posts/keep.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/140500000?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-09-26T10:59:20.712Z",
+      "slug": "keep",
+      "status": "published",
+      "tags": [
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        }
+      ],
+      "title": "keep"
     }
   ]
 }
