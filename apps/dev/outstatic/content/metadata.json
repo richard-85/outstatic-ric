@@ -1,6 +1,6 @@
 {
-  "commit": "5f682c93191cad4e53834dd938aba3f78cddada5",
-  "generated": "2025-09-24T12:46:36.547Z",
+  "commit": "3a866c9e006a665e7142b577eb1e533286256540",
+  "generated": "2025-09-26T10:24:21.285Z",
   "metadata": [
     {
       "__outstatic": {
@@ -197,6 +197,28 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "3a866c9e006a665e7142b577eb1e533286256540",
+        "hash": "3730007963",
+        "path": "/outstatic/content/posts/test.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/140500000?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-09-26T10:35:55.318Z",
+      "slug": "test",
+      "status": "published",
+      "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        }
+      ],
+      "title": "test"
     }
   ]
 }
