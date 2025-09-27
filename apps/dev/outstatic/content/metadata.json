@@ -1,6 +1,6 @@
 {
-  "commit": "c8e664aa57bb3abadc9796463505b6a7c7cdec45",
-  "generated": "2025-09-26T12:06:12.216Z",
+  "commit": "4998eff59d597fd59359cecf48a31afdee2aabf5",
+  "generated": "2025-09-27T06:13:06.863Z",
   "metadata": [
     {
       "__outstatic": {
@@ -215,6 +215,24 @@
       "tags": [
       ],
       "title": "Tester"
+    },
+    {
+      "__outstatic": {
+        "commit": "4998eff59d597fd59359cecf48a31afdee2aabf5",
+        "hash": "3523155322",
+        "path": "/outstatic/content/posts/test.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/140500000?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-09-27T06:24:49.715Z",
+      "slug": "test",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Test"
     }
   ]
 }
